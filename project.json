@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "TankWar",
+  "id": "0f335ee4-6ba9-42dd-aa27-4b96c6f84d9b",
+  "version": "2.4.2",
+  "isNew": false
+}
